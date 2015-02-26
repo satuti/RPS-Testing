@@ -1,0 +1,24 @@
+body {
+	background-color:#C6E2FF;
+}
+
+h1 {
+	font-family: Verdana;
+	
+}
+
+#title {
+	text-align: center;
+	color: White;
+}
+
+#choices {
+	margin: auto;
+}
+
+.selectors {
+	width: 100px;
+	height: 100px;
+	background-size: cover;
+}
+
